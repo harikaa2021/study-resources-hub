@@ -1,7 +1,5 @@
 # Study Resources Hub
 
-![Study Resources Hub Logo](assets/img/logo/logo.png)
-
 **Study Resources Hub** is a responsive, modern web platform designed to provide students, professionals, and educators with a comprehensive collection of academic resources, expert guidance, and interactive learning tools. Whether you're preparing for exams, advancing your career, or teaching others, this platform has everything you need to succeed.
 
 ---
